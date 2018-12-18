@@ -7,5 +7,5 @@ The final solution was created using a pre trained inception_13 net with the las
 
 This solution achieved ~75% accuracy on identifying dog breeds
 
-[example](example.png "Example Classification")
+![Example Classification](https://github.com/ShayCichocki/dog-breed-classifier/blob/master/example.png )
 
